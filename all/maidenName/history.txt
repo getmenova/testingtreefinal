@@ -1,0 +1,119 @@
+
+    2  cd /
+    3  ~
+    4  $
+    5  cd ~
+    6  cd !
+    7  pwd
+    8  whoami
+    9  ~
+   10  clear
+   11  pwd
+   12  ~
+   13  cd/root
+   14  cd /
+   15  cd /home/ubuntu
+   16  cd /
+   17  cd root
+   18  cd /
+   19  clear
+   20  cd /
+   21  ls
+   22  ls cd/bin
+   23  ls /bin
+   24  /boot
+   25  man cd
+   26  man ls
+   27  ls /
+   28  cd /~
+   29  cd /home
+   30  cd /boot
+   31  cd /home
+   32  ls
+   33  clear
+   34  ls
+   35  pwd
+   36  cd w
+   37  creat workspace
+   38  create workspace
+   39  cd /~
+   40  cd ~
+   41  cd /workspace
+   42  ls
+   43  cd /workspace
+   44  cd workspace
+   45  mkdir firstName
+   46  mkdir firstname
+   47  cd first
+   48  cd firstName/
+   49  mkdir lastName
+   50  mkdir maidenName
+   51  ls
+   52  cd lastName /
+   53  touch lname
+   54  ls
+   55  cat lname
+   56  echo Nova < lnane
+   57  echo Nova > lname
+   58  ls
+   59  cat lName
+   60  cat lname
+   61  echo Gump > lname
+   62  cat lname
+   63  echo lname
+   64  cat lname
+   65  echo Nova >> lname
+   66  cat ls
+   67  cat lname
+   68  lname 
+   69  "lname" 2L 14C
+   70  a
+   71  vi lname
+   72  mv
+   73  mv 
+   74  ls ..
+   75  mv lname lastName > firstName
+   76  ls
+   77  ls firstName
+   78  ls lastName
+   79  ls
+   80  /firstname
+   81  cd firstName
+   82  ls
+   83  cd /firstName
+   84  cd ..
+   85  ls
+   86  cd >>
+   87  cd ..
+   88  cd /firstName
+   89  cd firstName
+   90  ls
+   91  cd lastName
+   92  mk lname
+   93  touch lname
+   94  copy lname
+   95  mv lname ..
+   96  ls
+   97  ..
+   98  cd 
+   99  cd /firstName 
+  100  cd firstName
+  101  cd workspace
+  102  cd firstName
+  103  ls
+  104  mv lname maidenName/
+  105  cd maidenName
+  106  ls
+  107  cat lname
+  108  cp
+  109  cp lname 
+  110  ls
+  111  hello '
+  112  sadaijoidaj
+  113  history
+  114  cd maidenName
+  115  ls
+  116  cd /firstName
+  117  cd firstName
+  118  cd maidenName
+  119  history > history.txt

@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+    	<script type=Javascript>	
+document.getElementById('click').onclick = click;
+
+var heads = 0;
+var tails = 0;
+function click() {  
+    x = (Math.floor(Math.random() * 2) == 0);
+    if(x){
+    	flip("heads");
+    }else{
+   flip("tails");
+    }
+}
+function flip(coin) {
+    document.getElementById("result").innerHTML = coin;
+}
+
+</script>
+
+</head>
+<body>
+  <button id="click" type="button" onclick="click()">CLICK ME</button>
+<p>
+    You got: <span id="result"></span>
+</p>  
+</body>
+</html>
